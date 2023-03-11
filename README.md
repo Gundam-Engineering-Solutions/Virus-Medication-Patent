@@ -8,7 +8,7 @@ TsinKX = tsink 1/1
 
 MusKT = muskat 1/1
 
-HaldEX = haldee 99/100
+HaldEX = haldee 99.994/100
 kaalee mirch .004/100
 adarak .002/100
 
